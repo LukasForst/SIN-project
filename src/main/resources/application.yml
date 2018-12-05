@@ -10,7 +10,7 @@ spring:
     rest:
       base-path: "/api"
   datasource:
-    jndi-name: java:jboss/datasources/SIN-project-example
+    jndi-name: java:jboss/datasources/sin-postgres
   jpa:
     properties:
       hibernate:
